@@ -59,3 +59,12 @@ The objective of this project is to develop an interactive and insightful Sales 
 3. Automation: Connect Excel with Power BI for advanced analytics.
 
 4. Future Scope: Implement forecasting models for sales prediction.
+
+ #  Tools Used
+• Microsoft Excel
+
+• Pivot Tables
+
+• Data Cleaning & Transformation
+
+• Dashboard Design & Visualization
