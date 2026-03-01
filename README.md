@@ -36,3 +36,16 @@ The objective of this project is to develop an interactive and insightful Sales 
 
 3. Sales comparison across outlet sizes and locations.<br>
 • Visual: Matrix/Pivot table analysis.<br>
+
+# KPI Tracking and Comparisons
+1. Total Revenue Generated.<br>
+• Visual: KPI Card.<br>
+
+2. Average Sales per Item.<br>
+• Visual: KPI Card.<br>
+
+3. Average Customer Rating.<br>
+• Visual: KPI Card.<br>
+
+4. Sales Contribution by Outlet Type.<br>
+• Visual: Donut chart.<br>
