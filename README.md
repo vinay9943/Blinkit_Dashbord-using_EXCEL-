@@ -1,4 +1,4 @@
-# Blinkit_Dashbord_using_EXCEL
+# BlinkIT Sales Analysis (Using Excel)
 # Project Objective
 
 The objective of this project is to develop an interactive and insightful Sales Analysis Dashboard using Microsoft Excel to monitor business performance, analyze product trends, and evaluate outlet-level sales efficiency.
