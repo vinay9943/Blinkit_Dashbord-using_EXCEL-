@@ -49,3 +49,13 @@ The objective of this project is to develop an interactive and insightful Sales 
 
 4. Sales Contribution by Outlet Type.<br>
 • Visual: Donut chart.<br>
+
+# Next Steps
+
+1. Data Cleaning: Handle missing values and standardize category labels.
+
+2. Dashboard Enhancement: Add slicers for outlet size, item category, and location tier.
+
+3. Automation: Connect Excel with Power BI for advanced analytics.
+
+4. Future Scope: Implement forecasting models for sales prediction.
