@@ -11,9 +11,9 @@ The objective of this project is to develop an interactive and insightful Sales 
 - Transforming raw retail data into meaningful analytics using Excel tools.
 # Dashboard
 <a href="https://github.com/vinay9943/Blinkit_Dashbord-using_EXCEL-/blob/main/Blikit_Dashbord.png"> View Dashboard </a><br>
+
 # Process
 # General Data Analysis
-
 1.  What is the distribution of item categories?
 • Visual: Bar chart showing sales by item type.
 • Excel Tool: Pivot Table aggregation.
