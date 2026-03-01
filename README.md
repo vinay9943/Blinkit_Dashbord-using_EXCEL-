@@ -14,15 +14,15 @@ The objective of this project is to develop an interactive and insightful Sales 
 # Process
 # General Data Analysis
 
-1.What is the distribution of item categories?
+ 1.What is the distribution of item categories?
 • Visual: Bar chart showing sales by item type.
 • Excel Tool: Pivot Table aggregation.
-2.What is the total and average sales performance?
+ 2.What is the total and average sales performance?
 • Visual: KPI cards for Total Sales and Average Sales.
 • Excel Tool: Calculated fields.
-3.How are sales distributed across outlet sizes?
+ 3.How are sales distributed across outlet sizes?
 • Visual: Pie/Donut chart for outlet size contribution.
-4.What is the sales performance by outlet location tier?
+ 4.What is the sales performance by outlet location tier?
 • Visual: Column chart comparing Tier 1, Tier 2, and Tier 3 locations.
-5.How do customer ratings vary across outlets?
+ 5.How do customer ratings vary across outlets?
 • Visual: Bar chart showing average ratings by outlet type.
