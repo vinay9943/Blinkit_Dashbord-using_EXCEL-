@@ -15,8 +15,8 @@ The objective of this project is to develop an interactive and insightful Sales 
 # Process
 # General Data Analysis
 1. What is the distribution of item categories?<br>
-Visual: Bar chart showing sales by item type.<br>
-Excel Tool: Pivot Table aggregation.<br>
+• Visual: Bar chart showing sales by item type.<br>
+• Excel Tool: Pivot Table aggregation.<br>
 2. What is the total and average sales performance?
 •  Visual: KPI cards for Total Sales and Average Sales.
 •  Excel Tool: Calculated fields.
