@@ -17,12 +17,12 @@ The objective of this project is to develop an interactive and insightful Sales 
 1. What is the distribution of item categories?<br>
 • Visual: Bar chart showing sales by item type.<br>
 • Excel Tool: Pivot Table aggregation.<br>
-2. What is the total and average sales performance?
-•  Visual: KPI cards for Total Sales and Average Sales.
-•  Excel Tool: Calculated fields.
-3. How are sales distributed across outlet sizes?
-•  Visual: Pie/Donut chart for outlet size contribution.
-4. What is the sales performance by outlet location tier?
-•  Visual: Column chart comparing Tier 1, Tier 2, and Tier 3 locations.
-5. How do customer ratings vary across outlets?
-•  Visual: Bar chart showing average ratings by outlet type.
+2. What is the total and average sales performance?<br>
+•  Visual: KPI cards for Total Sales and Average Sales.<br>
+•  Excel Tool: Calculated fields.<br>
+3. How are sales distributed across outlet sizes?<br>
+•  Visual: Pie/Donut chart for outlet size contribution.<br>
+4. What is the sales performance by outlet location tier?<br>
+•  Visual: Column chart comparing Tier 1, Tier 2, and Tier 3 locations.<br>
+5. How do customer ratings vary across outlets?<br>
+•  Visual: Bar chart showing average ratings by outlet type.<br>
