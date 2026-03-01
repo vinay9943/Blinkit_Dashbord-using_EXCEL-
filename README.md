@@ -9,4 +9,5 @@ The objective of this project is to develop an interactive and insightful Sales 
 - Monitoring customer ratings and product demand trends.
 - Improving business insights through clear and interactive visualizations.
 - Transforming raw retail data into meaningful analytics using Excel tools.
+  
 <a href="https://github.com/vinay9943/Blinkit_Dashbord-using_EXCEL-/blob/main/Blikit_Dashbord.png"> View Dashboard </a><br>
