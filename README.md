@@ -26,3 +26,13 @@ The objective of this project is to develop an interactive and insightful Sales 
 •  Visual: Column chart comparing Tier 1, Tier 2, and Tier 3 locations.<br>
 5. How do customer ratings vary across outlets?<br>
 •  Visual: Bar chart showing average ratings by outlet type.<br>
+
+# Sales & Product Insights
+1. How does outlet establishment year affect sales?<br>
+• Visual: Line chart showing sales trends by establishment year.<br>
+
+2. Which outlet type performs best?<br>
+• Visual: Clustered column chart comparing outlet types.<br>
+
+3. Sales comparison across outlet sizes and locations.<br>
+• Visual: Matrix/Pivot table analysis.<br>
